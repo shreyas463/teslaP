@@ -1,5 +1,5 @@
-# teslaP
-Tesla Stock Price Prediction
+# Tesla Stock Price Prediction
+
 
 1.1 PROBLEM DEFINITION
 
